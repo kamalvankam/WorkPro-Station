@@ -1,1 +1,1 @@
-# project-oop-345
+# Seneca Library application
